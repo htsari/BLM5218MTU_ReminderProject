@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m1"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="Anımsatıcı Listesi"/>
+    <item android:id="@+id/m2"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        android:title="Help"/>
+    <item android:id="@+id/m3"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Ayarlar"/>
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="title_name">Anımsatıcı</string>
+    <string name="reminder_list_name">Anımsatıcı Listesi</string>
+    <string name="reminder_create_name">Anımsatıcı Oluşturma</string>
+    <string name="reminder_edit_name">Anımsatıcı Düzenleme</string>
+    <string name="statistics">İstatistik</string>
+    <string name="settings">Ayarlar</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="mode">close</string>
+    <string name="help">Simply add, edit and delete your reminders. If you have any questions, go have a beer.</string>
+    <string name="save_message">Anımsatıcı Kaydedildi</string>
+    <string name="delete_message">Anımsatıcı Silindi</string>
+    <string name="done_message">Anımsatıcı Tamamlandı</string>
+</resources>

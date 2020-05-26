@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="time_list_array">
+    <item>Tüm Tarihler</item>
+    <item>Günlük</item>
+    <item>Haftalık</item>
+    <item>Aylık</item>
+</string-array>
+</resources>

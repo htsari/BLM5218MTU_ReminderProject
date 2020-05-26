@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashboard"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="Anımsatıcı Listesi"/>
+    <item android:id="@+id/statistics"
+        android:icon="@drawable/ic_statistics"
+        android:title="İstatistik"/>
+    <item android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_white"
+        android:title="Ayarlar"/>
+    <item android:id="@+id/exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Çıkış"/>
+
+</menu>
