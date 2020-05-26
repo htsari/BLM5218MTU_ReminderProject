@@ -10,10 +10,6 @@
         android:icon="@drawable/ic_edit"
         android:title="Düzenle" />
     <item
-        android:id="@+id/menu_postpone"
-        android:icon="@drawable/ic_clock"
-        android:title="Ertele" />
-    <item
         android:id="@+id/menu_share"
         android:icon="@drawable/ic_share"
         android:title="Paylaş" />

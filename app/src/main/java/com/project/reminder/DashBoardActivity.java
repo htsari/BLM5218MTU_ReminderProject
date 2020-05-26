@@ -166,7 +166,7 @@ class TaskListAdapter extends BaseAdapter{
 
         Log.d(TAG, "Setting task to alarm at " + task.getDate() + (task.getEnabled() ? " enabled" : "") + (task.getOutdated() ? " outdated" : ""));
 
-        if (task.getEnabled() && !task.getOutdated())
+        if (task.getEnabled() && !task.getOutdated() && !task.getDone() )
         {
             intent = new Intent(context, TaskReceiver.class);
             task.toIntent(intent);
